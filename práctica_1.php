@@ -1,7 +1,5 @@
 <?php
 
-$variable = "Hola, mundo!";
-$mensaje = "Cruel";
 
 // echo $variable . $mensaje . PHP_EOL;
 // echo "El mensaje: $variable $mensaje" . PHP_EOL;
@@ -13,7 +11,7 @@ $mensaje = "Cruel";
 //     echo $arreglo[$i] . " ";
 // }
 // echo PHP_EOL;
-
+/*
 $persona[0] = ["apellido" => "Ormeño", "nombre" => "Emilio", "edad" => 30];
 $persona[1] = ["apellido" => "Scheffer", "nombre" => "Maru", "edad" => 15];
 $persona[2] = ["apellido" => "Gonzalez", "nombre" => "Juan", "edad" => 25];
@@ -25,3 +23,4 @@ foreach ($persona as $p) {
         echo "Nombre: " . $p["nombre"] . ", Apellido: " . $p["apellido"] . ", Edad: " . $p["edad"] . PHP_EOL;
     }
 }
+*/
